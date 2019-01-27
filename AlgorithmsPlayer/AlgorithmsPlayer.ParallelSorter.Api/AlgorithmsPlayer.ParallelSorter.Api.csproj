@@ -84,7 +84,8 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PersonController.cs" />
+    <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="OrdersController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
