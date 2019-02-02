@@ -1,4 +1,4 @@
-namespace AlgorithmsPlayer.BubbleSort.Api
+namespace AlgorithmsPlayer.BubbleSort.Api.Models
 {
     public class ChatMessage
     {
